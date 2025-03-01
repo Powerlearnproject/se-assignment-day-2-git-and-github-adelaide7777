@@ -115,5 +115,7 @@ Example: A team can use issues to assign tasks and a project board to track prog
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
 Challenge: Merge conflicts → Solution: Regularly pull changes from the main branch.
+
 Challenge: Losing track of commits → Solution: Write clear commit messages.
+
 Challenge: Poor collaboration → Solution: Use PRs and code reviews.
